@@ -1,0 +1,15 @@
+{
+  "name": "ja-moin-ey",
+  "version": "1.0.0",
+  "description": "My solution for Don ChaMoin's seating order problem",
+  "license": "cc0-1.0",
+  "private": true,
+  "scripts": {
+    "test": "vitest"
+  },
+  "type": "module",
+  "devDependencies": {
+    "prettier": "^2.8.8",
+    "vitest": "^0.31.1"
+  }
+}
